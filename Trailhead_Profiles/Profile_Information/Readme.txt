@@ -19,14 +19,14 @@ ORG USERNAME - lavakumarkushakumar256@agentforce.com
 PASSWORD - Gayatri@123
 ----------------------------------------------------------------------
 STUDENT ID - SBAP0029664
-STUDENT NAME - AYYAPPA
+STUDENT NAME - KAVERI AYYAPPA
 GROUP - B.COM(CA)
 LEARNING TRAK- SALESFORCE - DEVELOPER
 TRAILHEAD PROFILE LINK - https://www.salesforce.com/trailblazer/d1r2p5nyb5dn8fxbua
 
 
 PROJECT NAME - GARAGE MANAGEMENT SYSTEM
-ORG USERNAME - kavariayyappa1220407@agentforce.com
+ORG USERNAME - kaveriayyappa1220407@agentforce.com
 PASSWORD - Gayatri@123
 -----------------------------------------------------------------------
 STUDENT ID - SBAP0029695
